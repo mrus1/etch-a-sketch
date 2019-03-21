@@ -1,6 +1,4 @@
-==================
 Etch A Sketch
-==================
 
 Inspired by The Odin Project
 
@@ -11,5 +9,5 @@ Density of squares can be chosen manually by clicking on "Reset/New Size" button
 
 You can switch colors by clicking on "Default/Random Colors" button.
 
-==================
+
 Have fun!
