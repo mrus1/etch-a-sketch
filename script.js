@@ -55,10 +55,10 @@ function createGrid(size){
 
 function checkInput(){
   let inputType = Math.floor(parseInt(prompt("Select New Size: ")));
-  if(typeof inputType == "number" && 101 > inputType && inputType > 0){
+  if(typeof inputType == "number" && 151 > inputType && inputType > 0){
     return inputType;
   } else {
-    alert("Next time try a NUMBER from 1 to 100.")
+    alert("Next time try a NUMBER from 1 to 150.")
   }
 };
 
